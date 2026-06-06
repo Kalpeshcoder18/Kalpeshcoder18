@@ -6,7 +6,7 @@ Software Engineer focused on building scalable backend systems and AI-integrated
 
 ## Selected Projects
 
-### Airbnb Clone — Booking Platform  
+### Wanderlust — Booking Platform  
 Designed and implemented an end-to-end accommodation booking system with authentication, booking conflict prevention logic, and Stripe payment integration.  
 **Tech:** React, Node.js, Express, MongoDB  
 https://github.com/Kalpeshcoder18/Airbnb  
