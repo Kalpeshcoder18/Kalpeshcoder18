@@ -1,66 +1,71 @@
 # Kalpesh Paliwal
 
-Software Engineer focused on building scalable backend systems and AI-integrated web applications.
+Software Engineer focused on building scalable backend systems, AI-integrated applications, and developer tools.
 
 ---
 
-## Selected Projects
+## Featured Projects
+
+### AlgoVision — DSA Algorithm Visualizer & AI Debugger  
+Interactive IDE for visualizing and debugging Data Structures & Algorithms with AI-powered code analysis. Supports step-by-step execution, multiple visualization types (arrays, trees, graphs), and playback controls.  
+**Tech:** React 19, Vite, JavaScript, Groq Cloud API  
+[View Project](https://github.com/Kalpeshcoder18/AlgoVision)
+
+---
 
 ### Wanderlust — Booking Platform  
-Designed and implemented an end-to-end accommodation booking system with authentication, booking conflict prevention logic, and Stripe payment integration.  
+End-to-end accommodation booking system with secure authentication, booking conflict prevention, and Stripe payment integration.  
 **Tech:** React, Node.js, Express, MongoDB  
-https://github.com/Kalpeshcoder18/Airbnb  
+[View Project](https://github.com/Kalpeshcoder18/Airbnb)
 
 ---
 
 ### WellNexus — Healthcare Management System  
-Built a role-based healthcare platform with appointment scheduling and dashboard analytics.  
-Implemented secure authentication and structured backend architecture.  
-**Tech:** MERN  
-https://github.com/Kalpeshcoder18/WellNexus  
+Role-based healthcare platform featuring appointment scheduling, dashboard analytics, and secure authentication.  
+**Tech:** MERN Stack (MongoDB, Express, React, Node.js)  
+[View Project](https://github.com/Kalpeshcoder18/WellNexus)
 
 ---
 
 ### Movie Recommender System  
-Implemented collaborative filtering and data preprocessing pipeline for personalized movie recommendations.  
-Evaluated model performance using standard ML metrics.  
+Machine learning implementation using collaborative filtering with data preprocessing and model evaluation.  
 **Tech:** Python, Scikit-Learn, Pandas  
-https://github.com/Kalpeshcoder18/Movie-Recommender-System  
+[View Project](https://github.com/Kalpeshcoder18/Movie-Recommender-System)
 
 ---
 
 ## Technical Skills
 
 **Languages**  
-JavaScript, TypeScript, Python, C++, Java  
+JavaScript, TypeScript, Python, C++, Java
 
 **Backend**  
-Node.js, Express, REST APIs, Authentication, Payment Integration  
+Node.js, Express, REST APIs, Authentication, Payment Integration
 
 **Frontend**  
-React, HTML, CSS, Tailwind  
+React, Vite, HTML, CSS, Tailwind
 
 **Databases**  
-MongoDB, MySQL  
+MongoDB, MySQL
 
 **Machine Learning**  
-Scikit-Learn, TensorFlow, PyTorch  
+Scikit-Learn, TensorFlow, PyTorch, Pandas
 
-**Tools**  
-Git, Docker, Linux  
+**Tools & DevOps**  
+Git, Docker, Linux, VS Code
 
 ---
 
 ## Current Focus
 
-- Backend system design  
-- Scalable application architecture  
-- AI integration in production systems  
-- Performance and reliability improvements  
+- Building developer tools & productivity applications
+- Backend system design & scalability
+- AI integration in production environments
+- Full-stack architecture best practices
 
 ---
 
-## GitHub Overview
+## GitHub Stats
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Kalpeshcoder18&show_icons=true&theme=default&hide_border=true" />
@@ -69,5 +74,8 @@ Git, Docker, Linux
 
 ---
 
-LinkedIn:[ https://www.linkedin.com/in/your-link ](https://www.linkedin.com/in/kalpesh-paliwal-9a9747279/) 
-Email: klpshplwl455@gmail.com
+## Connect
+
+**LinkedIn:** [Kalpesh Paliwal](https://www.linkedin.com/in/kalpesh-paliwal-9a9747279/)  
+**Email:** klpshplwl455@gmail.com  
+**GitHub:** [@Kalpeshcoder18](https://github.com/Kalpeshcoder18)
